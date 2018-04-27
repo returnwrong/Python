@@ -1,4 +1,4 @@
-#在命令行输出彩色love very lover you
+#在命令行输出彩色love very lover
 import os
 import time
 def love():
